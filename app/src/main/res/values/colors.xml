@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="win">#0BE20B</color>
+    <color name="draw">#11C2D9</color>
+    <color name="btn">#387EA1</color>
+    <color name="c1">#27C8F5</color>
+    <color name="spl">#EDEEF7</color>
+    <color name="bSpl">#1A2C6B</color>
+    <color name="bck">#D5E7EB</color>
+</resources>
